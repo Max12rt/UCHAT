@@ -1,0 +1,15 @@
+@import url("authorization.css");
+@import url("chat.css");
+@import url("black.css");
+@import url("green.css");
+@import url("pink.css");
+@import url("purple.css");
+@import url("blue.css");
+@import url("light_blue.css");
+
+.alert {
+    font-family: 'Comic Sans MS';
+    font-weight: 900;
+    font-size: 14px;
+    color: rgb(215, 87, 87);
+}

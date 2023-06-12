@@ -1,0 +1,93 @@
+.chat-section-hello {
+    background: rgba(138, 174, 215, 0.447);
+    background-image: url("../../../resources/imgs/hello.png");
+    background-size: 900px;
+}
+
+.chat-section {
+    background: rgba(138, 174, 215, 0.447);
+    background-image: url("../../../resources/imgs/bg.png");
+    background-size: 900px;
+}
+
+.send-button {
+    background: none;
+    border-width: 0;
+    box-shadow: none;
+    border-radius: 0;
+    background: #315B81;
+}
+
+.send-button:hover {
+    transition: 0.2s;
+    transform: scale(1.25);
+}
+
+.send-button:active {
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+
+.message {
+    background: rgb(138, 174, 215);
+    color: #172240;
+    border-radius: 5px;
+}
+
+.buttons-section,
+.search-section,
+.chat-info-section,
+.text-entry-section {
+    color: #121a30;
+    font-size: 14px;
+    font-family: 'Comic Sans MS';
+    background: rgb(138, 174, 215);
+}
+
+.chats-list-section {
+    background: rgb(98, 135, 176);
+}
+
+.error-window,
+.window {
+    background: rgb(138, 174, 215);
+    border-color: #315B81;
+}
+
+.error-message {
+    font-weight: 900;
+    font-size: 14px;
+    font-family: 'Comic Sans MS';
+    color: rgb(166, 34, 34);
+}
+
+.text-entry-section {
+    font-size: 14px;
+}
+
+.delete-btn {
+    background: none;
+    border-width: 0;
+    box-shadow: none;
+}
+
+.placeholder {
+    font-size: 14px;
+    font-family: 'Comic Sans MS';
+    background: none;
+    color: #121a30;
+}
+
+.au-list_box {
+    color: #121a30;
+    font-family: 'Comic Sans MS';
+    background: rgb(98, 135, 176);
+    font-size: 14px;
+}
+
+.chat-label {
+    color: #121a30;
+    font-family: 'Comic Sans MS';
+    font-size: 14px;
+    font-weight: 900;
+}

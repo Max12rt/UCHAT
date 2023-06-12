@@ -1,0 +1,152 @@
+.send-button-light_blue {
+    background: #E6E6E6;
+    background: none;
+    border-width: 0;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.send-button-light_blue:hover {
+    transition: 0.2s;
+    transform: scale(1.25);
+}
+
+.send-button-light_blue:active {
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+
+.chat-light_blue-hello {
+    background: #E6E6E6;
+    background-image: url("../../../resources/imgs/hello.png");
+    background-size: 900px;
+}
+
+.chat-light_blue {
+    background: #E6E6E6;
+    background-image: url("../../../resources/imgs/bg.png");
+    background-size: 900px;
+}
+
+.message-light_blue {
+    font-family: 'Comic Sans MS';
+    background: #E6E6E6;
+    color: #36393e;
+    border-radius: 5px;
+}
+
+.buttons-light_blue {
+    font-family: 'Comic Sans MS';
+    background: #E6E6E6;
+    color: #E6E6E6;
+}
+
+.search-light_blue,
+.chat-info-light_blue,
+.text-entry-light_blue {
+    font-family: 'Comic Sans MS';
+    background: #E6E6E6;
+    font-size: 14px;
+    color: #36393e;
+}
+
+.chats-list-light_blue {
+    font-family: 'Comic Sans MS';
+    background: #E6E6E6;
+}
+
+.error-window-light_blue,
+.window-light_blue {
+    font-family: 'Comic Sans MS';
+    background: #E6E6E6;
+    border-color: #3D56B2;
+}
+
+.error-message-light_blue {
+    font-family: 'Comic Sans MS';
+    font-weight: 900;
+    font-size: 14px;
+    color: rgb(215, 87, 87);
+}
+
+.placeholder-light_blue {
+    font-family: 'Comic Sans MS';
+    color: #36393e;
+}
+
+.scroll-light_blue {
+    font-family: 'Comic Sans MS';
+    border-width: 1.5px;
+    border-radius: 8px;
+    box-shadow: 0 0 0 2px #3D56B2;
+}
+
+.au-list_box-light_blue {
+    font-family: 'Comic Sans MS';
+    color: #2A2F4F;
+    background-color: #E6E6E6;
+    font-size: 14px;
+}
+
+.chat-label-light_blue {
+    font-family: 'Comic Sans MS';
+    color: #3D56B2;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.authorization-window-light_blue {
+    font-family: 'Comic Sans MS';
+    background: #E6E6E6;
+}
+
+.au-entry-light_blue {
+    font-family: 'Comic Sans MS';
+    outline: none;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 14px;
+    border-width: 1.5px;
+    background-color: #E6E6E6;
+    box-shadow: inset 2px 5px 10px rgba(79, 74, 83, 0.3);
+    transition: 300ms ease-in-out;
+    color: #36393e;
+    border-color: #3D56B2;
+}
+
+.au-entry-light_blue:focus-within {
+    font-family: 'Comic Sans MS';
+    padding: 4px;
+    background-color: #E6E6E6;
+    border-color: #3D56B2;
+    border-width: 3px;
+    transform: scale(1.04);
+    color: #36393e;
+}
+
+.au-button-light_blue {
+    border: none;
+    outline: none;
+    background: #5C7AEA;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-family: 'Comic Sans MS';
+    font-weight: 900;
+    color: #E6E6E6;
+    border-radius: 5px;
+    transition: all ease 0.2s;
+    box-shadow: 0px 5px 0px 0px #3D56B2;
+}
+
+.au-button-light_blue:active {
+    font-family: 'Comic Sans MS';
+    transform: translateY(5px);
+    box-shadow: 0px 0px 0px 0px #0e131a;
+}
+
+.au-errors-light_blue {
+    font-family: 'Comic Sans MS';
+    color: #3D56B2;
+    font-weight: 900;
+    font-size: 14px;
+}
