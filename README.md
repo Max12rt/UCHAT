@@ -6,4 +6,4 @@ A real-time communication tool(like telegram)
 
 ## Team Members
 Maksym Tsiupa  (Backend) Pavlo Zinchenko (Frontend)  Daria Katsai (Frontend)  Zheka Kovalov (Backend)  Daniyil Tkachenko (Frontend) 
-## YouTube Video
+
